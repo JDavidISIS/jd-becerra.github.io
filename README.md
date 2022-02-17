@@ -5,4 +5,4 @@ La pagina consta de cuatro grandes secciones:
 - La seccion en donde se exponen mis hobbies y soft skills. Se incluyeron videos.
 - La seccion de mis experiencia laboral y academica
 
-*LINK:* 
+*LINK:* https://jdavidisis.github.io/jd-becerra.github.io/index.html
