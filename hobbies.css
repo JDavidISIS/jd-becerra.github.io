@@ -1,0 +1,39 @@
+.navg a{
+    color: #f4f4f4!important;
+    font-family: 'Lato';
+    font-weight: bold;
+    font-size: 23px;
+    padding: 10px 15px;
+    text-align: center;
+
+}
+
+.navg a:hover{
+    background-color: rgb(1, 8, 17);
+    text-decoration: none;
+    transition: all 0.5s ease-in-out;
+}
+
+body {
+    font-family: "Lato";
+    font-weight: 300;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -webkit-overflow-scrolling: touch;
+  }
+
+h1, h2, h3, h4, h5, h6{
+    font-family: "Lato";
+    font-weight: bold;
+    color: #333;
+}
+
+body {
+    background-color: #f2f2f2;
+    font-family: "Lato";
+    font-weight: 300;
+    font-size: 16px;
+    color: #555;
+    -webkit-font-smoothing: antialiased;
+    -webkit-overflow-scrolling: touch;
+  }
